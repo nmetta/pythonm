@@ -6,6 +6,8 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
+pyqt5 = "*"
+pyqtwebengine = "*"
 
 [requires]
 python_version = "3.8"
